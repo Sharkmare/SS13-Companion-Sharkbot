@@ -1,0 +1,26 @@
+{
+  "config": {
+  "token": "",
+  "manifesttrigger": "",
+	"botmaster": "",
+	"botid": "",
+	"debugchannel": "",
+	"publicchannel": "",
+	"sudo": [],
+	"reboottrigger": "",
+	"singlefaxtrigger": "",
+	"multifaxtrigger": "",
+	"logolink": "https://raw.githubusercontent.com/CHOMPStation2/CHOMPStation2/master/html/images/ntlogo.png",
+	"publicfaxchannel": "",
+	"security": "",
+	"cargo": "",
+	"medical": "",
+	"exploration": "",
+	"science": "",
+	"service": "",
+	"command": "",
+	"version": "1",
+	"placeholder2": "",
+	"placeholder2": ""
+  }
+}
