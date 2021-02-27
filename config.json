@@ -1,7 +1,7 @@
 {
-  "config": {
-  "token": "",
-  "manifesttrigger": "",
+	"config": {
+	"token": "",
+	"manifesttrigger": "",
 	"botmaster": "",
 	"botid": "",
 	"debugchannel": "",
