@@ -20,7 +20,7 @@
 	"service": "",
 	"command": "",
 	"version": "1",
-	"placeholder2": "",
+	"faxdir": "",
 	"placeholder2": ""
   }
 }
